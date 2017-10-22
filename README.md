@@ -6,4 +6,5 @@
   dereverberation, known as weighted prediction error(WPE) method.
   
   Reference:
+  
   [1] Nakatani T, Yoshioka T, Kinoshita K, et al. Speech Dereverberation Based on Variance-Normalized Delayed Linear Prediction[J]. IEEE      Transactions on Audio Speech & Language Processing, 2010, 18(7):1717-1731.
