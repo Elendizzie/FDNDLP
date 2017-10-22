@@ -1,6 +1,6 @@
 # speech-enhancement
 
-## 1.Dereverberation-FDNDLP
+## FDNDLP
 
   An implementation of Variance-Normalizied Delayed Linear Prediction in time-frequency domain, which is aimed at speech
   dereverberation, known as weighted prediction error(WPE) method.
