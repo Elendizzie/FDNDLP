@@ -2,7 +2,7 @@
 
 ## FDNDLP
 
-  An implementation of Variance-Normalizied Delayed Linear Prediction in time-frequency domain, which is aimed at speech
+  This program is an implementation of Variance-Normalizied Delayed Linear Prediction in time-frequency domain, which is aimed at speech
   dereverberation, known as weighted prediction error(WPE) method.
   
   Reference:
