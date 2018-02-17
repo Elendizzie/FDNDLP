@@ -1,9 +1,5 @@
 function y = fdndlp(x, cfg)
-
-% *****************************************************
-% Last-modified: 2017/10/14
 %
-% Author: Teng Xiang
 % *****************************************************
 %
 % This program is the implementation of Variance-Normalizied Delayed Linear
@@ -26,8 +22,11 @@ function y = fdndlp(x, cfg)
 % Lc1                      subband prediction order 
 % eps                      lower bound of rho^2(Normalizaton factor)
 %
-% *******************************************************************
 %
+% ***************************************************
+% Created by Teng Xiang at Oct-14-2017 
+% ***************************************************
+
 
 % ***************************************************
 % Load Parameters
